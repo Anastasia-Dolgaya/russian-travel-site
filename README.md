@@ -3,4 +3,4 @@
 
 При работе над проектом использовалась методология БЭМ(Nested), технологии флекс и грид, визуальные эффекты. Реализована адаптивная верстка с медиазапросами.
 
-Ссылка на проект: https://anastasia-dolgaya.github.io/russian-travel-project/
+Ссылка на проект: https://anastasia-dolgaya.github.io/russian-travel-site/
